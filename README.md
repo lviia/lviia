@@ -13,7 +13,7 @@
   <img align="center" alt="Livia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Livia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/684f3cdf3542ff17c0556ea755d4b37c.gif" height="150" style="border-radius:50px;"/></a>
+  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/0834d0d6708ad76997444f30a5244c4f.gif" height="150" style="border-radius:50px;"/></a>
 </div>
 
 ##
