@@ -16,13 +16,4 @@
   <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/0834d0d6708ad76997444f30a5244c4f.gif" height="150" style="border-radius:50px;"/></a>
 </div>
 
-##
-
-<div>
-  <a href="https://instagram.com/lviia_marques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rodrigueslivia212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lívia-marques-493a1b215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/lviia/lviia/blob/output/github-contribution-grid-snake.svg)
-</div>
         
